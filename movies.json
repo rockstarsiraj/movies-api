@@ -166,240 +166,240 @@
   "title": "The Matrix",
   "genre": "Sci-Fi",
   "rating": 8.7,
-  "runtime": 136,
-  "poster": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+  "minutes": 136,
+  "image": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
 },
 {
   "id": 22,
   "title": "Interstellar",
   "genre": "Sci-Fi",
   "rating": 8.6,
-  "runtime": 169,
-  "poster": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  "minutes": 169,
+  "image": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
 },
 {
   "id": 23,
   "title": "Gladiator",
   "genre": "Action",
   "rating": 8.5,
-  "runtime": 155,
-  "poster": "https://image.tmdb.org/t/p/original/pRn3TJHbAqCAO0Cwr6u0GkVzapY.jpg"
+  "minutes": 155,
+  "image": "https://image.tmdb.org/t/p/original/pRn3TJHbAqCAO0Cwr6u0GkVzapY.jpg"
 },
 {
   "id": 24,
   "title": "The Dark Knight Rises",
   "genre": "Action",
   "rating": 8.4,
-  "runtime": 164,
-  "poster": "https://image.tmdb.org/t/p/original/3bgtUfKQKNi3nJsAB5URpP2wdRt.jpg"
+  "minutes": 164,
+  "image": "https://image.tmdb.org/t/p/original/3bgtUfKQKNi3nJsAB5URpP2wdRt.jpg"
 },
 {
   "id": 25,
   "title": "Fight Club",
   "genre": "Drama",
   "rating": 8.8,
-  "runtime": 139,
-  "poster": "https://image.tmdb.org/t/p/original/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+  "minutes": 139,
+  "image": "https://image.tmdb.org/t/p/original/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
 }
 {
   "id": 26,
   "title": "Pulp Fiction",
   "genre": "Crime",
   "rating": 8.9,
-  "runtime": 154,
-  "poster": "https://image.tmdb.org/t/p/original/dM2w364MScsjFf8pfMbaWUcWrR.jpg"
+  "minutes": 154,
+  "image": "https://image.tmdb.org/t/p/original/dM2w364MScsjFf8pfMbaWUcWrR.jpg"
 },
 {
   "id": 27,
   "title": "Django Unchained",
   "genre": "Western",
   "rating": 8.4,
-  "runtime": 165,
-  "poster": "https://image.tmdb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
+  "minutes": 165,
+  "image": "https://image.tmdb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
 },
 {
   "id": 28,
   "title": "The Lion King",
   "genre": "Animation",
   "rating": 8.5,
-  "runtime": 89,
-  "poster": "https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  "minutes": 89,
+  "image": "https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
 },
 {
   "id": 29,
   "title": "The Wolf of Wall Street",
   "genre": "Biography",
   "rating": 8.2,
-  "runtime": 180,
-  "poster": "https://image.tmdb.org/t/p/original/pWHf4khOloNVfCxscsXFj3jj6gP.jpg"
+  "minutes": 180,
+  "image": "https://image.tmdb.org/t/p/original/pWHf4khOloNVfCxscsXFj3jj6gP.jpg"
 },
 {
   "id": 30,
   "title": "Whiplash",
   "genre": "Drama",
   "rating": 8.5,
-  "runtime": 107,
-  "poster": "https://image.tmdb.org/t/p/original/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg"
+  "minutes": 107,
+  "image": "https://image.tmdb.org/t/p/original/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg"
 },
 {
   "id": 31,
   "title": "Parasite",
   "genre": "Thriller",
   "rating": 8.6,
-  "runtime": 132,
-  "poster": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  "minutes": 132,
+  "image": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
 },
 {
   "id": 32,
   "title": "Joker",
   "genre": "Crime",
   "rating": 8.4,
-  "runtime": 122,
-  "poster": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  "minutes": 122,
+  "image": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
 },
 {
   "id": 33,
   "title": "Tenet",
   "genre": "Sci-Fi",
   "rating": 7.4,
-  "runtime": 150,
-  "poster": "https://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg"
+  "minutes": 150,
+  "image": "https://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg"
 },
 {
   "id": 34,
   "title": "The Revenant",
   "genre": "Adventure",
   "rating": 8.0,
-  "runtime": 156,
-  "poster": "https://image.tmdb.org/t/p/original/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg"
+  "minutes": 156,
+  "image": "https://image.tmdb.org/t/p/original/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg"
 },
 {
   "id": 35,
   "title": "The Social Network",
   "genre": "Biography",
   "rating": 7.7,
-  "runtime": 120,
-  "poster": "https://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+  "minutes": 120,
+  "image": "https://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
 },
 {
   "id": 36,
   "title": "Gravity",
   "genre": "Sci-Fi",
   "rating": 7.7,
-  "runtime": 91,
-  "poster": "https://image.tmdb.org/t/p/original/u8QG57OqF0xYHCcBH8SiuqRrN6A.jpg"
+  "minutes": 91,
+  "image": "https://image.tmdb.org/t/p/original/u8QG57OqF0xYHCcBH8SiuqRrN6A.jpg"
 },
 {
   "id": 37,
   "title": "Mad Max: Fury Road",
   "genre": "Action",
   "rating": 8.1,
-  "runtime": 121,
-  "poster": "https://image.tmdb.org/t/p/original/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
+  "minutes": 121,
+  "image": "https://image.tmdb.org/t/p/original/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
 },
 {
   "id": 38,
   "title": "Blade Runner 2049",
   "genre": "Sci-Fi",
   "rating": 8.0,
-  "runtime": 164,
-  "poster": "https://image.tmdb.org/t/p/original/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+  "minutes": 164,
+  "image": "https://image.tmdb.org/t/p/original/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
 },
 {
   "id": 39,
   "title": "Dune",
   "genre": "Sci-Fi",
   "rating": 8.1,
-  "runtime": 155,
-  "poster": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+  "minutes": 155,
+  "image": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
 },
 {
   "id": 40,
   "title": "Oppenheimer",
   "genre": "Biography",
   "rating": 8.4,
-  "runtime": 181,
-  "poster": "https://image.tmdb.org/t/p/original/gE6yp3jbFvj3rylI1G1H2uN9A9b.jpg"
+  "minutes": 181,
+  "image": "https://image.tmdb.org/t/p/original/gE6yp3jbFvj3rylI1G1H2uN9A9b.jpg"
 },
 {
   "id": 41,
   "title": "Barbie",
   "genre": "Comedy",
   "rating": 7.0,
-  "runtime": 114,
-  "poster": "https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+  "minutes": 114,
+  "image": "https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
 },
 {
   "id": 42,
   "title": "The Batman",
   "genre": "Action",
   "rating": 7.9,
-  "runtime": 176,
-  "poster": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  "minutes": 176,
+  "image": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
 },
 {
   "id": 43,
   "title": "No Time to Die",
   "genre": "Action",
   "rating": 7.3,
-  "runtime": 163,
-  "poster": "https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+  "minutes": 163,
+  "image": "https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
 },
 {
   "id": 44,
   "title": "The Conjuring",
   "genre": "Horror",
   "rating": 7.5,
-  "runtime": 112,
-  "poster": "https://image.tmdb.org/t/p/original/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
+  "minutes": 112,
+  "image": "https://image.tmdb.org/t/p/original/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
 },
 {
   "id": 45,
   "title": "A Quiet Place",
   "genre": "Horror",
   "rating": 7.5,
-  "runtime": 91,
-  "poster": "https://image.tmdb.org/t/p/original/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
+  "minutes": 91,
+  "image": "https://image.tmdb.org/t/p/original/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
 },
 {
   "id": 46,
   "title": "La La Land",
   "genre": "Romance",
   "rating": 8.0,
-  "runtime": 128,
-  "poster": "https://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+  "minutes": 128,
+  "image": "https://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
 },
 {
   "id": 47,
   "title": "Frozen",
   "genre": "Animation",
   "rating": 7.3,
-  "runtime": 102,
-  "poster": "https://image.tmdb.org/t/p/original/6c9YtYQZ8VQ6e8ERrA3uzMdGII4.jpg"
+  "minutes": 102,
+  "image": "https://image.tmdb.org/t/p/original/6c9YtYQZ8VQ6e8ERrA3uzMdGII4.jpg"
 },
 {
   "id": 48,
   "title": "Moana",
   "genre": "Animation",
   "rating": 7.6,
-  "runtime": 107,
-  "poster": "https://image.tmdb.org/t/p/original/9tz3Xhf2EYbhEPIGO0FFrPPQ0vQ.jpg"
+  "minutes": 107,
+  "image": "https://image.tmdb.org/t/p/original/9tz3Xhf2EYbhEPIGO0FFrPPQ0vQ.jpg"
 },
 {
   "id": 49,
   "title": "The Incredibles",
   "genre": "Animation",
   "rating": 8.0,
-  "runtime": 115,
-  "poster": "https://image.tmdb.org/t/p/original/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+  "minutes": 115,
+  "image": "https://image.tmdb.org/t/p/original/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
 },
 {
   "id": 50,
   "title": "Spirited Away",
   "genre": "Animation",
   "rating": 8.6,
-  "runtime": 125,
-  "poster": "https://image.tmdb.org/t/p/original/oRvMaJOmapypFUcQqpgHMZA6qL9.jpg"
+  "minutes": 125,
+  "image": "https://image.tmdb.org/t/p/original/oRvMaJOmapypFUcQqpgHMZA6qL9.jpg"
 }
 ]
 
