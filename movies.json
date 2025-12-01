@@ -79,7 +79,6 @@
     "minutes": 181,
     "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg"
   },
-
   {
     "id": 11,
     "title": "Shutter Island",
@@ -120,7 +119,6 @@
     "minutes": 142,
     "image": "https://m.media-amazon.com/images/M/MV5BZTcwMjlhZDEtNjRjZi00OWE3LTg2MGYtZGNmMDM4NmRmY2FhXkEyXkFqcGc@._V1_.jpg"
   },
-
   {
     "id": 16,
     "title": "Bahubali",
@@ -161,245 +159,246 @@
     "minutes": 105,
     "image": "https://i.pinimg.com/474x/3c/cf/ac/3ccfac846b7c05e375604ceff9caa568.jpg"
   },
-{
-  "id": 21,
-  "title": "Pushpa",
-  "genre": "Action",
-  "rating": 8.7,
-  "minutes": 136,
-  "image": "https://m.media-amazon.com/images/M/MV5BNDM3N2UzM2UtMjEwMC00NGUzLThmMmQtNGMyM2VmMDA0ZWEwXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 22,
-  "title": "RRR",
-  "genre": "Action",
-  "rating": 8.6,
-  "minutes": 169,
-  "image": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 23,
-  "title": "Vikram",
-  "genre": "revenge",
-  "rating": 8.5,
-  "minutes": 155,
-  "image": "https://m.media-amazon.com/images/M/MV5BNWE2N2FjMWEtZDJhNS00OTJkLTkwMTgtZGNlOTQ5MzI2OTRiXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 24,
-  "title": "God Father",
-  "genre": "Action",
-  "rating": 8.4,
-  "minutes": 164,
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHnzHsnoTNDObkDDhydUh-E6vvgPc2FCvPQ&s"
-},
-{
-  "id": 25,
-  "title": "Dude",
-  "genre": "Drama",
-  "rating": 8.8,
-  "minutes": 139,
-  "image": "https://m.media-amazon.com/images/M/MV5BZWFiMzEzZTQtZjFiZC00YjhjLTk3Y2QtYzA2MjE4MmRiNzdmXkEyXkFqcGc@._V1_.jpg"
-}
-{
-  "id": 26,
-  "title": "Kingdom",
-  "genre": "Crime",
-  "rating": 8.9,
-  "minutes": 154,
-  "image": "https://m.media-amazon.com/images/M/MV5BMmIzMDQ1N2EtOWJjNS00NjMwLTk2OTYtYzFhM2JjMjk0OWIwXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 27,
-  "title": "Little Hearts",
-  "genre": "Western",
-  "rating": 8.4,
-  "minutes": 165,
-  "image": "https://m.media-amazon.com/images/M/MV5BZTZlMjAxN2QtYzE5Yi00MDhlLWJjMTUtODFmNGUyOGYyNzEwXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 28,
-  "title": "Hit",
-  "genre": "crime",
-  "rating": 8.5,
-  "minutes": 189,
-  "image": "https://m.media-amazon.com/images/M/MV5BNTI0Yzc1Y2EtNDg4MS00OWJmLWI4ODItMjFjMDQ4NjNjM2NhXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 29,
-  "title": "Game changer",
-  "genre": "Biography",
-  "rating": 8.2,
-  "minutes": 180,
-  "image": "https://m.media-amazon.com/images/M/MV5BM2IxOGRlZTQtYzRlOS00ZDNjLTkxYmEtNDk4ZTI2NWFlYjZhXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 30,
-  "title": "War",
-  "genre": "Drama",
-  "rating": 8.5,
-  "minutes": 107,
-  "image": "https://m.media-amazon.com/images/M/MV5BN2I2YzYwZDctMTljNy00MzlkLTk3Y2EtNGFiYjRlY2I5YjAwXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,500,281_.jpg"
-},
-{
-  "id": 31,
-  "title": "Kantara",
-  "genre": "Thriller",
-  "rating": 8.6,
-  "minutes": 132,
-  "image": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-},
-{
-  "id": 32,
-  "title": "leo",
-  "genre": "Crime",
-  "rating": 8.4,
-  "minutes": 122,
-  "image": "https://m.media-amazon.com/images/M/MV5BODFkZWQwZDAtZDNkYi00MWU1LTkyNmYtM2JjMTM5OTI0ZGQwXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 33,
-  "title": "stranger things",
-  "genre": "Sci-Fi",
-  "rating": 7.4,
-  "minutes": 150,
-  "image": "https://m.media-amazon.com/images/M/MV5BOWU2NjY5NWQtMjdkZi00ODJlLThkZTAtMzFlYmJmMGE2NjZkXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 34,
-  "title": "f1",
-  "genre": "Adventure",
-  "rating": 8.0,
-  "minutes": 156,
-  "image": "https://m.media-amazon.com/images/M/MV5BMmFhNTg4OTUtYTUxYi00OGZlLThmYmUtZTQxYTljOTZiZWE1XkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 35,
-  "title": "locked",
-  "genre": "Biography",
-  "rating": 7.7,
-  "minutes": 120,
-  "image": "https://m.media-amazon.com/images/M/MV5BZjg2NDFhZDEtYzZlZC00ZTRkLTg4NDctYjIwNTQxYWY4ODFiXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 36,
-  "title": "death",
-  "genre": "Sci-Fi",
-  "rating": 7.7,
-  "minutes": 91,
-  "image": "https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 37,
-  "title": "companion",
-  "genre": "Romance",
-  "rating": 8.1,
-  "minutes": 121,
-  "image": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 38,
-  "title": "bring her back",
-  "genre": "horror",
-  "rating": 8.0,
-  "minutes": 164,
-  "image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"
-},
-{
-  "id": 39,
-  "title": "Dune",
-  "genre": "Sci-Fi",
-  "rating": 8.1,
-  "minutes": 155,
-  "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg"
-},
-{
-  "id": 40,
-  "title": "Oppenheimer",
-  "genre": "Biography",
-  "rating": 8.4,
-  "minutes": 181,
-  "image": "https://m.media-amazon.com/images/M/MV5BOTRjYjVlMTktNDcwMi00ZjJjLTlhZmYtNzNhNTc2MGQ5OTRhXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 41,
-  "title": "Barbie",
-  "genre": "Comedy",
-  "rating": 7.0,
-  "minutes": 114,
-  "image": "https://m.media-amazon.com/images/M/MV5BYTExODhlOWQtNjJjZS00YzE1LTkzMTgtNTdmY2IxODIzZGFmXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 42,
-  "title": "The Batman",
-  "genre": "Action",
-  "rating": 7.9,
-  "minutes": 176,
-  "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 43,
-  "title": "No Time to Die",
-  "genre": "Action",
-  "rating": 7.3,
-  "minutes": 163,
-  "image": "https://m.media-amazon.com/images/M/MV5BMTVhZDkzZWMtOTQ1ZC00NmYyLWExNDgtOTQ2YWI2NGJjMzY3XkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 44,
-  "title": "The Conjuring",
-  "genre": "Horror",
-  "rating": 7.5,
-  "minutes": 112,
-  "image": "https://m.media-amazon.com/images/M/MV5BMWQyMzU1YWItYzczYy00MGZiLTg1ZTUtY2QwMWViNGQxNmJhXkEyXkFqcGc@._V1_QL75_UX175_.jpg"
-},
-{
-  "id": 45,
-  "title": "A Quiet Place",
-  "genre": "Horror",
-  "rating": 7.5,
-  "minutes": 91,
-  "image": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-},
-{
-  "id": 46,
-  "title": "La La Land",
-  "genre": "Romance",
-  "rating": 8.0,
-  "minutes": 128,
-  "image": "https://m.media-amazon.com/images/M/MV5BMGIyMjhiOWItYzA2Yi00YWU5LWJhMGQtZThlMjBjODYxZGI0XkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 47,
-  "title": "Frozen",
-  "genre": "Animation",
-  "rating": 7.3,
-  "minutes": 102,
-  "image": "https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_.jpg"
-},
-{
-  "id": 48,
-  "title": "Moana",
-  "genre": "Animation",
-  "rating": 7.6,
-  "minutes": 107,
-  "image": "https://image.tmdb.org/t /p/w500/9tz3Xhf2EYbhEPIGO0FFrPPQ0vQ.jpg"
-},
-{
-  "id": 49,
-  "title": "The Incredibles",
-  "genre": "Animation",
-  "rating": 8.0,
-  "minutes": 115,
-  "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg"
-},
-{
-  "id": 50,
-  "title": "Spirited Away",
-  "genre": "Animation",
-  "rating": 8.6,
-  "minutes": 125,
-  "image": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1NTg1Ml5BMl5BanBnXkFtZTgwOTgzMTMyMDE@._V1_QL75_UX158_.jpg"
-}
+  {
+    "id": 21,
+    "title": "Pushpa",
+    "genre": "Action",
+    "rating": 8.7,
+    "minutes": 136,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM3N2UzM2UtMjEwMC00NGUzLThmMmQtNGMyM2VmMDA0ZWEwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 22,
+    "title": "RRR",
+    "genre": "Action",
+    "rating": 8.6,
+    "minutes": 169,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Vikram",
+    "genre": "Revenge",
+    "rating": 8.5,
+    "minutes": 155,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWE2N2FjMWEtZDJhNS00OTJkLTkwMTgtZGNlOTQ5MzI2OTRiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 24,
+    "title": "God Father",
+    "genre": "Action",
+    "rating": 8.4,
+    "minutes": 164,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHnzHsnoTNDObkDDhydUh-E6vvgPc2FCvPQ&s"
+  },
+  {
+    "id": 25,
+    "title": "Dude",
+    "genre": "Drama",
+    "rating": 8.8,
+    "minutes": 139,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFiMzEzZTQtZjFiZC00YjhjLTk3Y2QtYzA2MjE4MmRiNzdmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Kingdom",
+    "genre": "Crime",
+    "rating": 8.9,
+    "minutes": 154,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmIzMDQ1N2EtOWJjNS00NjMwLTk2OTYtYzFhM2JjMjk0OWIwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Little Hearts",
+    "genre": "Western",
+    "rating": 8.4,
+    "minutes": 165,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTZlMjAxN2QtYzE5Yi00MDhlLWJjMTUtODFmNGUyOGYyNzEwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Hit",
+    "genre": "Crime",
+    "rating": 8.5,
+    "minutes": 189,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTI0Yzc1Y2EtNDg4MS00OWJmLWI4ODItMjFjMDQ4NjNjM2NhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Game changer",
+    "genre": "Biography",
+    "rating": 8.2,
+    "minutes": 180,
+    "image": "https://m.media-amazon.com/images/M/MV5BM2IxOGRlZTQtYzRlOS00ZDNjLTkxYmEtNDk4ZTI2NWFlYjZhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 30,
+    "title": "War",
+    "genre": "Drama",
+    "rating": 8.5,
+    "minutes": 107,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2I2YzYwZDctMTljNy00MzlkLTk3Y2EtNGFiYjRlY2I5YjAwXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,500,281_.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Kantara",
+    "genre": "Thriller",
+    "rating": 8.6,
+    "minutes": 132,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 32,
+    "title": "leo",
+    "genre": "Crime",
+    "rating": 8.4,
+    "minutes": 122,
+    "image": "https://m.media-amazon.com/images/M/MV5BODFkZWQwZDAtZDNkYi00MWU1LTkyNmYtM2JjMTM5OTI0ZGQwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 33,
+    "title": "stranger things",
+    "genre": "Sci-Fi",
+    "rating": 7.4,
+    "minutes": 150,
+    "image": "https://m.media-amazon.com/images/M/MV5BOWU2NjY5NWQtMjdkZi00ODJlLThkZTAtMzFlYmJmMGE2NjZkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 34,
+    "title": "f1",
+    "genre": "Adventure",
+    "rating": 8.0,
+    "minutes": 156,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFhNTg4OTUtYTUxYi00OGZlLThmYmUtZTQxYTljOTZiZWE1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 35,
+    "title": "locked",
+    "genre": "Biography",
+    "rating": 7.7,
+    "minutes": 120,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjg2NDFhZDEtYzZlZC00ZTRkLTg4NDctYjIwNTQxYWY4ODFiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 36,
+    "title": "death",
+    "genre": "Sci-Fi",
+    "rating": 7.7,
+    "minutes": 91,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 37,
+    "title": "companion",
+    "genre": "Romance",
+    "rating": 8.1,
+    "minutes": 121,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 38,
+    "title": "bring her back",
+    "genre": "Horror",
+    "rating": 8.0,
+    "minutes": 164,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Dune",
+    "genre": "Sci-Fi",
+    "rating": 8.1,
+    "minutes": 155,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Oppenheimer",
+    "genre": "Biography",
+    "rating": 8.4,
+    "minutes": 181,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTRjYjVlMTktNDcwMi00ZjJjLTlhZmYtNzNhNTc2MGQ5OTRhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Barbie",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "minutes": 114,
+    "image": "https://m.media-amazon.com/images/M/MV5BYTExODhlOWQtNjJjZS00YzE1LTkzMTgtNTdmY2IxODIzZGFmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 42,
+    "title": "The Batman",
+    "genre": "Action",
+    "rating": 7.9,
+    "minutes": 176,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 43,
+    "title": "No Time to Die",
+    "genre": "Action",
+    "rating": 7.3,
+    "minutes": 163,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTVhZDkzZWMtOTQ1ZC00NmYyLWExNDgtOTQ2YWI2NGJjMzY3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 44,
+    "title": "The Conjuring",
+    "genre": "Horror",
+    "rating": 7.5,
+    "minutes": 112,
+    "image": "https://m.media-amazon.com/images/M/MV5BMWQyMzU1YWItYzczYy00MGZiLTg1ZTUtY2QwMWViNGQxNmJhXkEyXkFqcGc@._V1_QL75_UX175_.jpg"
+  },
+  {
+    "id": 45,
+    "title": "A Quiet Place",
+    "genre": "Horror",
+    "rating": 7.5,
+    "minutes": 91,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 46,
+    "title": "La La Land",
+    "genre": "Romance",
+    "rating": 8.0,
+    "minutes": 128,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGIyMjhiOWItYzA2Yi00YWU5LWJhMGQtZThlMjBjODYxZGI0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Frozen",
+    "genre": "Animation",
+    "rating": 7.3,
+    "minutes": 102,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Moana",
+    "genre": "Animation",
+    "rating": 7.6,
+    "minutes": 107,
+    "image": "https://image.tmdb.org/t/p/w500/9tz3Xhf2EYbhEPIGO0FFrPPQ0vQ.jpg"
+  },
+  {
+    "id": 49,
+    "title": "The Incredibles",
+    "genre": "Animation",
+    "rating": 8.0,
+    "minutes": 115,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Spirited Away",
+    "genre": "Animation",
+    "rating": 8.6,
+    "minutes": 125,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1NTg1Ml5BMl5BanBnXkFtZTgwOTgzMTMyMDE@._V1_QL75_UX158_.jpg"
+  }
 ]
+
 
