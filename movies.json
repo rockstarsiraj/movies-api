@@ -5,6 +5,7 @@
     "genre": "Sci-Fi",
     "rating": 8.8,
     "minutes": 148,
+    "actor":"Leonardo DiCaprio",
     "image": "https://m.media-amazon.com/images/M/MV5BMTM0MjUzNjkwMl5BMl5BanBnXkFtZTcwNjY0OTk1Mw@@._V1_.jpg"
   },
   {
@@ -12,6 +13,7 @@
     "title": "Interstellar",
     "genre": "Sci-Fi",
     "rating": 8.6,
+    "actor":"Matthew McConaughey",
     "minutes": 169,
     "image": "https://m.media-amazon.com/images/M/MV5BZGYzMGY0ZjctNDY3ZC00MDEzLTgzN2YtYWM1OTQyOTI1NDMxXkEyXkFqcGc@._V1_.jpg"
   },
@@ -20,6 +22,7 @@
     "title": "The Dark Knight",
     "genre": "Action",
     "rating": 9.0,
+    "actor":"Christian Bale",
     "minutes": 152,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-KLZE98OTrRXPqsF8Y25yXgmTiwaRIpKDew&s"
   },
@@ -28,6 +31,7 @@
     "title": "Avatar",
     "genre": "Sci-Fi",
     "rating": 7.8,
+    "actor":"Sam Worthington",
     "minutes": 162,
     "image": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
@@ -35,6 +39,7 @@
     "id": 5,
     "title": "Titanic",
     "genre": "Romance",
+    "actor":"Leonardo DiCaprio",
     "rating": 7.9,
     "minutes": 195,
     "image": "https://m.media-amazon.com/images/M/MV5BMTIyNjc0NjgyMl5BMl5BanBnXkFtZTcwMDAzMTAzMQ@@._V1_.jpg"
@@ -43,6 +48,7 @@
     "id": 6,
     "title": "The Matrix",
     "genre": "Sci-Fi",
+    "actor":"Keanu Reeves",
     "rating": 8.7,
     "minutes": 136,
     "image": "https://m.media-amazon.com/images/M/MV5BYWQ0NjNmY2UtOWE0Yy00NzQyLTgzOTgtNGVkZmE0OTA3OGJkXkEyXkFqcGc@._V1_.jpg"
@@ -51,6 +57,7 @@
     "id": 7,
     "title": "Gladiator",
     "genre": "Action",
+    "actor":"Russell Crowe",
     "rating": 8.5,
     "minutes": 155,
     "image": "https://m.media-amazon.com/images/M/MV5BNmJlZGIzMjEtZWE0NS00NTAxLWIyNGItNjYzYzhjMmI3ZWVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -59,6 +66,7 @@
     "id": 8,
     "title": "Joker",
     "genre": "Drama",
+    "actor":"Joaquin Phoenix",
     "rating": 8.4,
     "minutes": 122,
     "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -67,6 +75,7 @@
     "id": 9,
     "title": "Avengers",
     "genre": "Action",
+    "actor":"Robert Downey Jr.,Chris Evans",
     "rating": 8.0,
     "minutes": 143,
     "image": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -74,6 +83,7 @@
   {
     "id": 10,
     "title": "Avengers: Endgame",
+    "actor":"Robert Downey Jr.,Chris Evans",
     "genre": "Action",
     "rating": 8.4,
     "minutes": 181,
@@ -83,6 +93,7 @@
     "id": 11,
     "title": "Shutter Island",
     "genre": "Thriller",
+    "actor":"Leonardo DiCaprio",
     "rating": 8.2,
     "minutes": 138,
     "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg"
@@ -92,6 +103,7 @@
     "title": "The Prestige",
     "genre": "Thriller",
     "rating": 8.5,
+    "actor":"Christian Bale",
     "minutes": 130,
     "image": "https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_.jpg"
   },
@@ -100,6 +112,7 @@
     "title": "Memento",
     "genre": "Thriller",
     "rating": 8.4,
+    "actor":"Guy Pearce",
     "minutes": 113,
     "image": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
@@ -108,6 +121,7 @@
     "title": "Fight Club",
     "genre": "Drama",
     "rating": 8.8,
+    "actor":"Brad Pitt",
     "minutes": 139,
     "image": "https://m.media-amazon.com/images/M/MV5BZDFmZTU5ZDctMmQ0OC00NmVhLTgwNWYtNTE5NDJiZTRlOTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
@@ -116,6 +130,7 @@
     "title": "OG",
     "genre": "Action",
     "rating": 8.8,
+    "actor":"pawankalyan",
     "minutes": 142,
     "image": "https://m.media-amazon.com/images/M/MV5BZTcwMjlhZDEtNjRjZi00OWE3LTg2MGYtZGNmMDM4NmRmY2FhXkEyXkFqcGc@._V1_.jpg"
   },
@@ -123,6 +138,7 @@
     "id": 16,
     "title": "Bahubali",
     "genre": "Action",
+    "actor":"prabhas",
     "rating": 8.5,
     "minutes": 88,
     "image": "https://m.media-amazon.com/images/M/MV5BNmIwYTI3ODItMzRkOS00MzlhLWI4NzQtNDFmOGJhZGJhM2VkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -132,6 +148,7 @@
     "title": "Kalki",
     "genre": "Animation",
     "rating": 8.1,
+    "actor":"prabhas",
     "minutes": 100,
     "image": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_.jpg"
   },
@@ -141,6 +158,7 @@
     "genre": "Action",
     "rating": 8.2,
     "minutes": 106,
+    "actor":"adavisesh",
     "image": "https://m.media-amazon.com/images/M/MV5BY2E3MjYzMmYtOTQ2OC00ODFkLWJlMDItMTUxZjFkYWY1MjdkXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -149,6 +167,7 @@
     "genre": "Action",
     "rating": 8.3,
     "minutes": 81,
+    "actor":"teja",
     "image": "https://m.media-amazon.com/images/M/MV5BNzQ5MTcxNDYtZTlhNi00NDA5LTliYzktMzliYTVkZDQwOTE2XkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -157,6 +176,7 @@
     "genre": "Drama",
     "rating": 8.4,
     "minutes": 105,
+    "actor":"Sam Worthington",
     "image": "https://i.pinimg.com/474x/3c/cf/ac/3ccfac846b7c05e375604ceff9caa568.jpg"
   },
   {
@@ -165,6 +185,7 @@
     "genre": "Action",
     "rating": 8.7,
     "minutes": 136,
+    "actor":"alluarjun",
     "image": "https://m.media-amazon.com/images/M/MV5BNDM3N2UzM2UtMjEwMC00NGUzLThmMmQtNGMyM2VmMDA0ZWEwXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -172,6 +193,7 @@
     "title": "RRR",
     "genre": "Action",
     "rating": 8.6,
+    "actor":"ramcharan,ntr",
     "minutes": 169,
     "image": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_.jpg"
   },
@@ -179,6 +201,7 @@
     "id": 23,
     "title": "Vikram",
     "genre": "Revenge",
+    "actor":"kamalhasan",
     "rating": 8.5,
     "minutes": 155,
     "image": "https://m.media-amazon.com/images/M/MV5BNWE2N2FjMWEtZDJhNS00OTJkLTkwMTgtZGNlOTQ5MzI2OTRiXkEyXkFqcGc@._V1_.jpg"
@@ -187,6 +210,7 @@
     "id": 24,
     "title": "God Father",
     "genre": "Action",
+    "actor":"Chiranjeevi",
     "rating": 8.4,
     "minutes": 164,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHnzHsnoTNDObkDDhydUh-E6vvgPc2FCvPQ&s"
@@ -196,6 +220,7 @@
     "title": "Dude",
     "genre": "Drama",
     "rating": 8.8,
+    "actor":"pradeep",
     "minutes": 139,
     "image": "https://m.media-amazon.com/images/M/MV5BZWFiMzEzZTQtZjFiZC00YjhjLTk3Y2QtYzA2MjE4MmRiNzdmXkEyXkFqcGc@._V1_.jpg"
   },
@@ -205,6 +230,7 @@
     "genre": "Crime",
     "rating": 8.9,
     "minutes": 154,
+    "actor":"vijay",
     "image": "https://m.media-amazon.com/images/M/MV5BMmIzMDQ1N2EtOWJjNS00NjMwLTk2OTYtYzFhM2JjMjk0OWIwXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -212,6 +238,7 @@
     "title": "Little Hearts",
     "genre": "Western",
     "rating": 8.4,
+    "actor":"mouli",
     "minutes": 165,
     "image": "https://m.media-amazon.com/images/M/MV5BZTZlMjAxN2QtYzE5Yi00MDhlLWJjMTUtODFmNGUyOGYyNzEwXkEyXkFqcGc@._V1_.jpg"
   },
@@ -221,6 +248,7 @@
     "genre": "Crime",
     "rating": 8.5,
     "minutes": 189,
+    "actor":"nani",
     "image": "https://m.media-amazon.com/images/M/MV5BNTI0Yzc1Y2EtNDg4MS00OWJmLWI4ODItMjFjMDQ4NjNjM2NhXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -228,6 +256,7 @@
     "title": "Game changer",
     "genre": "Biography",
     "rating": 8.2,
+    "actor":"ramcharan",
     "minutes": 180,
     "image": "https://m.media-amazon.com/images/M/MV5BM2IxOGRlZTQtYzRlOS00ZDNjLTkxYmEtNDk4ZTI2NWFlYjZhXkEyXkFqcGc@._V1_.jpg"
   },
@@ -236,6 +265,7 @@
     "title": "War",
     "genre": "Drama",
     "rating": 8.5,
+    "actor":"hrithikroshan,ntr",
     "minutes": 107,
     "image": "https://m.media-amazon.com/images/M/MV5BN2I2YzYwZDctMTljNy00MzlkLTk3Y2EtNGFiYjRlY2I5YjAwXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,500,281_.jpg"
   },
@@ -245,6 +275,7 @@
     "genre": "Thriller",
     "rating": 8.6,
     "minutes": 132,
+    "actor":"rishab",
     "image": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -253,6 +284,7 @@
     "genre": "Crime",
     "rating": 8.4,
     "minutes": 122,
+    "actor":"vijay",
     "image": "https://m.media-amazon.com/images/M/MV5BODFkZWQwZDAtZDNkYi00MWU1LTkyNmYtM2JjMTM5OTI0ZGQwXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -261,6 +293,7 @@
     "genre": "Sci-Fi",
     "rating": 7.4,
     "minutes": 150,
+    "actor":"WinonaRyder,DavidHarbour",
     "image": "https://m.media-amazon.com/images/M/MV5BOWU2NjY5NWQtMjdkZi00ODJlLThkZTAtMzFlYmJmMGE2NjZkXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -269,6 +302,7 @@
     "genre": "Adventure",
     "rating": 8.0,
     "minutes": 156,
+    "actor":"Brad Pitt",
     "image": "https://m.media-amazon.com/images/M/MV5BMmFhNTg4OTUtYTUxYi00OGZlLThmYmUtZTQxYTljOTZiZWE1XkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -277,6 +311,7 @@
     "genre": "Biography",
     "rating": 7.7,
     "minutes": 120,
+    "actor":"Eddie",
     "image": "https://m.media-amazon.com/images/M/MV5BZjg2NDFhZDEtYzZlZC00ZTRkLTg4NDctYjIwNTQxYWY4ODFiXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -285,6 +320,7 @@
     "genre": "Sci-Fi",
     "rating": 7.7,
     "minutes": 91,
+    "actor":"Wagner Mour",
     "image": "https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -293,6 +329,7 @@
     "genre": "Romance",
     "rating": 8.1,
     "minutes": 121,
+    "actor":"Iris",
     "image": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -300,6 +337,7 @@
     "title": "bring her back",
     "genre": "Horror",
     "rating": 8.0,
+    "actor":"alina",
     "minutes": 164,
     "image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"
   },
@@ -309,6 +347,7 @@
     "genre": "Sci-Fi",
     "rating": 8.1,
     "minutes": 155,
+    "actor":"Timothée Chalamet",
     "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg"
   },
   {
@@ -317,6 +356,7 @@
     "genre": "Biography",
     "rating": 8.4,
     "minutes": 181,
+    "actor":"CillianMurphy",
     "image": "https://m.media-amazon.com/images/M/MV5BOTRjYjVlMTktNDcwMi00ZjJjLTlhZmYtNzNhNTc2MGQ5OTRhXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -324,6 +364,7 @@
     "title": "Barbie",
     "genre": "Comedy",
     "rating": 7.0,
+    "actor":"MargotRobbie",
     "minutes": 114,
     "image": "https://m.media-amazon.com/images/M/MV5BYTExODhlOWQtNjJjZS00YzE1LTkzMTgtNTdmY2IxODIzZGFmXkEyXkFqcGc@._V1_.jpg"
   },
@@ -333,6 +374,7 @@
     "genre": "Action",
     "rating": 7.9,
     "minutes": 176,
+    "actor":"RobertPattinson",
     "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -341,6 +383,7 @@
     "genre": "Action",
     "rating": 7.3,
     "minutes": 163,
+    "actor":"DanielCraig",
     "image": "https://m.media-amazon.com/images/M/MV5BMTVhZDkzZWMtOTQ1ZC00NmYyLWExNDgtOTQ2YWI2NGJjMzY3XkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -349,6 +392,7 @@
     "genre": "Horror",
     "rating": 7.5,
     "minutes": 112,
+    "actor":"VeraFarmiga",
     "image": "https://m.media-amazon.com/images/M/MV5BMWQyMzU1YWItYzczYy00MGZiLTg1ZTUtY2QwMWViNGQxNmJhXkEyXkFqcGc@._V1_QL75_UX175_.jpg"
   },
   {
@@ -357,6 +401,7 @@
     "genre": "Horror",
     "rating": 7.5,
     "minutes": 91,
+    "actor":"EmilyBlunt",
     "image": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -365,12 +410,14 @@
     "genre": "Romance",
     "rating": 8.0,
     "minutes": 128,
+    "actor":"ryanGosling",
     "image": "https://m.media-amazon.com/images/M/MV5BMGIyMjhiOWItYzA2Yi00YWU5LWJhMGQtZThlMjBjODYxZGI0XkEyXkFqcGc@._V1_.jpg"
   },
   {
     "id": 47,
     "title": "Frozen",
     "genre": "Animation",
+    "actor":"KristenBell",
     "rating": 7.3,
     "minutes": 102,
     "image": "https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_.jpg"
@@ -381,6 +428,7 @@
     "genre": "Action",
     "rating": 7.6,
     "minutes": 107,
+    "actor":"MaheshBabu",
     "image": "https://m.media-amazon.com/images/M/MV5BNTkwNDIwZDctNzQ5NC00OTcwLWIzMTEtNWM1MWRkMjg3OTYwXkEyXkFqcGc@._V1_.jpg"
   },
   {
@@ -389,6 +437,7 @@
     "genre": "Animation",
     "rating": 8.0,
     "minutes": 115,
+    "actor":"CraigNelson",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -397,6 +446,7 @@
     "genre": "Animation",
     "rating": 8.6,
     "minutes": 125,
+    "actor":"DaveighChase",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1NTg1Ml5BMl5BanBnXkFtZTgwOTgzMTMyMDE@._V1_QL75_UX158_.jpg"
   }
 ]
